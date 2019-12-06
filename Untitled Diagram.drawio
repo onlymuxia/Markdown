@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T07:31:51.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="06ZHPqU6a5yC62S9DjD8" version="12.3.7" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-06T07:32:05.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="z8fDfUem7u4rBsWGODPt" version="12.3.7" type="github" pages="3">
   <diagram name="收银台流程图" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1490" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MqrZGOUUdysxM16c1eH" name="UI">
-    <mxGraphModel dx="1490" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_AlnVbgyhVqX15xRj5RF-0"/>
         <mxCell id="_AlnVbgyhVqX15xRj5RF-1" parent="_AlnVbgyhVqX15xRj5RF-0"/>
