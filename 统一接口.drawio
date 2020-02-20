@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-20T04:17:17.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="H7Wg8WWpu_zMfx8dw-8I" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-20T04:19:44.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="VDoor5yPDyjgVvlOAARL" version="12.7.2" type="github">
   <diagram id="CEhrORci5TCC4d7FeP7T" name="Page-1">
-    <mxGraphModel dx="1038" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,14 +135,14 @@
           <mxGeometry x="45" y="152" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YfSGc-pqgDhnCT7YDvDX-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="YfSGc-pqgDhnCT7YDvDX-40" vertex="1">
-          <mxGeometry x="45" y="202" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="250" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YfSGc-pqgDhnCT7YDvDX-44" value="APP 进入扫码充电" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=1.14;exitY=0.228;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YfSGc-pqgDhnCT7YDvDX-41" target="YfSGc-pqgDhnCT7YDvDX-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="352" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YfSGc-pqgDhnCT7YDvDX-47" value="支付" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=open;startSize=6;endSize=8;fillColor=#f8cecc;strokeColor=#b85450;entryX=-0.12;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YfSGc-pqgDhnCT7YDvDX-57" target="YfSGc-pqgDhnCT7YDvDX-61" edge="1">
+        <mxCell id="YfSGc-pqgDhnCT7YDvDX-47" value="支付" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=open;startSize=6;endSize=8;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.12;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YfSGc-pqgDhnCT7YDvDX-57" target="YfSGc-pqgDhnCT7YDvDX-61" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="990" y="402" as="sourcePoint" />
             <mxPoint x="1370" y="462" as="targetPoint" />
